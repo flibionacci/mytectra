@@ -2,5 +2,3 @@ test file
 
 new line
 
-
-testBranch new line
